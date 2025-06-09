@@ -22,7 +22,7 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Pushpender C.",
+                "Pooja C.",
                 1000,
                 "Web Developer",
                 1000,
@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+           Full Stack Developer crafting seamless, scalable web applications from front-end design to back-end architecture.
           </p>
           <div>
             <Link
